@@ -11,7 +11,23 @@ This will create your own copy of this project, which you can modify freely — 
 </p>
 
 
----
+
+<h1 align="center">SHG-Documentation</h1>
+
+<div align="center">
+
+| **Term** | **Definition** |
+|----------|----------------|
+| **SHG** | Second Harmonic Generation |
+| **CW** | Continuous Wave |
+| **PW** | Pulsed Wave |
+| **G** | Gaussian |
+| **BG** | Bessel Gauss|
+</div>
+
+&nbsp;
+
+
 
 ***Table of Contents***
 
