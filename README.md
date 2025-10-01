@@ -7,7 +7,7 @@ This will create your own copy of this project, which you can modify freely — 
 ---    
 
 <p align="center">
-  <img src="./images/readme_images/SHG_Logo.png" alt="SHG Logo" width="250">
+  <img src="./images/readme_images/SHG-banner.png" alt="SHG-banner" >
 </p>
 
 
@@ -22,7 +22,7 @@ This will create your own copy of this project, which you can modify freely — 
 | **CW** | Continuous Wave |
 | **PW** | Pulsed Wave |
 | **G** | Gaussian |
-| **BG** | Bessel Gauss|
+| **BG** | Bessel Gaussian|
 </div>
 
 &nbsp;
