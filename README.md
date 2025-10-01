@@ -161,7 +161,7 @@ Folder PATH listing
 |       10_Array.F90
 |       README.md
 |       
-+---src_results
++---src
 |   |   2_Heat-Equation_Continuous-Wave_Gaussian.f90
 |   |   3_Heat-Equation_Pulsed-Wave_Gaussian.f90
 |   |   4_Phase-Mismatch_Pulsed-Wave_Gaussia.f90
