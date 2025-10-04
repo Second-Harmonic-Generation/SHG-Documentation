@@ -1,3 +1,6 @@
+<h1 align="center">Harvard style and BibTeX of the Articles</h1>
+
+
 **Note:   
 Please consider cite to our related works. To make it easier to understand our contributions, the articles are sorted by thematic order, not by chronological order.**
 
