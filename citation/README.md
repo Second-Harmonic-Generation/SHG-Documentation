@@ -1,8 +1,11 @@
 <h1 align="center">Harvard style and BibTeX of the Articles</h1>
 
+Bibliographic References (BibTeX and Harvard Style) – All article references used across the SHG GitHub Organization, maintained in BibTeX format.
+---  
 
-**Note:   
-Please consider cite to our related works. To make it easier to understand our contributions, the articles are sorted by thematic order, not by chronological order.**
+
+**Note**:   
+Please consider cite to our related works. To make it easier to understand our contributions, the articles are **sorted by thematic order**, not by chronological order.
 
 # Contents
 [1. Heat Equation Continuous Wave Gaussian Analytical](#1-heat-equation-continuous-wave-gaussian-analytical)    
