@@ -157,7 +157,7 @@ Folder PATH listing
 +---src
 |   |   2_Heat-Equation_Continuous-Wave_Gaussian.f90
 |   |   3_Heat-Equation_Pulsed-Wave_Gaussian.f90
-|   |   4_Phase-Mismatch_Pulsed-Wave_Gaussia.f90
+|   |   4_Phase-Mismatch_Pulsed-Wave_Gaussian.f90
 |   |   5_Ideal_Continuous-Wave_Gaussian.f90
 |   |   6_Ideal_Pulsed-Wave_Bessel-Gaussian.f90
 |   |   7_Coupled_Continuous-Wave_Gaussian.f90
