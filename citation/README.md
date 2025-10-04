@@ -1,10 +1,7 @@
 <h1 align="center">Harvard style and BibTeX of the Articles</h1>
 
-Bibliographic References (BibTeX and Harvard Style) – All article references used across the SHG GitHub Organization, maintained in BibTeX format.
----  
-
-
-**Note**:   
+This collection provides all article references from the SHG GitHub Organization, maintained in BibTeX and Harvard Style format.
+ 
 Please consider cite to our related works. To make it easier to understand our contributions, the articles are **sorted by thematic order**, not by chronological order.
 
 # Contents
