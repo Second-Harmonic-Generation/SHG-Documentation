@@ -1,10 +1,3 @@
-## 🧰 How to Use This Template    
-
-Click the green **"Use this template"** button at the top of the page, then choose **"Create a new repository"**.   
-
-This will create your own copy of this project, which you can modify freely — no need to fork!   
-
----    
 
 <p align="center">
   <img src="./images/readme_images/SHG-banner.png" alt="SHG-banner" >
