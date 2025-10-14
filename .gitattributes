@@ -1,4 +1,4 @@
-# --- Force Fortran detection
+# Force Fortran when present
 *.f      linguist-language=Fortran
 *.for    linguist-language=Fortran
 *.f90    linguist-language=Fortran
@@ -7,33 +7,23 @@
 *.F90    linguist-language=Fortran
 *.F95    linguist-language=Fortran
 
-# --- Hide plotting scripts entirely
-*.plt linguist-detectable=false
-*.gp  linguist-detectable=false
-*.gnu linguist-detectable=false
+# Exclude plotting & results from language stats
+*.plt            linguist-vendored
+*.gp             linguist-vendored
+*.gnu            linguist-vendored
+results/**       linguist-vendored
+data/**          linguist-vendored
+*.dat            linguist-vendored
+*.csv            linguist-vendored
 
-# --- Hide results/data (often large and miscounted)
-results/**     linguist-detectable=false
-data/**        linguist-detectable=false
-*.dat          linguist-detectable=false
-*.csv          linguist-detectable=false
-*.txt          linguist-detectable=false
+# Docs & binaries out of stats
+*.md             linguist-documentation
+citation/**      linguist-documentation
+*.pdf            linguist-documentation
+images/**        linguist-generated
 
-# --- Exclude build artefacts
-*.o            linguist-generated
-*.mod          linguist-generated
-*.a            linguist-generated
-build/**       linguist-generated
-
-# --- Images/binaries don’t count
-images/**      linguist-generated
-*.png          linguist-generated
-*.jpg          linguist-generated
-*.jpeg         linguist-generated
-*.pdf          linguist-documentation
-
-# --- Docs, citations, licenses don’t count
-*.md           linguist-documentation
-citation/**    linguist-documentation
-CITATION.cff   linguist-documentation
-LICENSE        linguist-documentation
+# Build artifacts
+*.o              linguist-generated
+*.mod            linguist-generated
+*.a              linguist-generated
+build/**         linguist-generated
