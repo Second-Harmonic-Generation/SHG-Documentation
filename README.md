@@ -25,12 +25,11 @@
 ***Table of Contents***
 
 <details>
-  <summary><a href="#1-about-this-repository"><i><b>1. About this Repository</b></i></a></summary>
+  <summary><a href="#1-about-this-organization"><i><b>1. About this Organization</b></i></a></summary>
   <div>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#11-who-is-this-tutorial-for">1.1. Who Is This Tutorial For?</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#12-what-will-you-learn">1.2. What Will You Learn?</a><br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#13-prerequisites">1.3. Prerequisites</a><br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="#14-contents-of-this-repository">1.4. Contents of this Repository</a>
   </div>
 </details>
 
@@ -106,8 +105,8 @@
 
                             
 
-# 1. About this Repository
-This GitHub repository offers comprehensive guidance, from basic to advanced levels, for computationally addressing thermal effects in Second Harmonic Generation (SHG). As an educational resource, this repository starts with covering fundamental aspects of Fortran, including how to install it and master its essential commands. Also, we demonstrate techniques for computationally solving a nonlinear optics phenomenon using the Finite Difference Method (FDM), provide access to the codes utilized in our studies, and explain our research findings clearly. Also, we outline potential research opportunities for future exploration. Our ongoing efforts involve expanding the repository to incorporate further advancements in the field. 
+# 1. About this Organization
+This SHG organization offers comprehensive guidance, from basic to advanced levels, for computationally addressing thermal effects in Second Harmonic Generation (SHG). As an educational resource, this organization starts with covering fundamental aspects of Fortran, including how to install it and master its essential commands. Also, we demonstrate techniques for computationally solving a nonlinear optics phenomenon using the Finite Difference Method (FDM), provide access to the codes utilized in our studies, and explain our research findings clearly. Also, we outline potential research opportunities for future exploration. Our ongoing efforts involve expanding the organization to incorporate further advancements in the field. 
 
 ## 1.1. Who Is This Tutorial For?   
 This tutorial is designed for anyone interested in computational physics, nonlinear optics, or scientific computing, regardless of their prior experience. Whether you're a student, researcher, or professional, this resource will guide you through the process of solving Thermal Effects in SHG using FDM.
@@ -123,54 +122,11 @@ By the end of this tutorial, you will:
 ## 1.3. Prerequisites  
 This tutorial is designed for three types of researcher:
 
-1. **For those who are familiar with SHG and Fortran**: You can dive straight into the research phase. The codes and topics provided in this repository, in [**src**](./src), are meant to deepen your knowledge and assist in further studies.
+1. **For those who are familiar with SHG and Fortran**: You can dive straight into the research phase. The codes and topics provided in this organization, in [**src**](./src), are meant to deepen your knowledge and assist in further studies.
 
 2. **For those who know Fortran but are new to SHG**: This tutorial will introduce you to the fundamentals of SHG, guiding you step-by-step through the key concepts. By the end, you'll be ready to tackle complex problems in this field.
 
-3. **For beginners with no prior knowledge of SHG or Fortran**: This repository is built with you in mind. We'll start with the basics, teaching you Fortran from the ground up in [**fortran_tutorial**](./fortran_tutorial), followed by an introduction to SHG. Our goal is to help you progress from understanding the basics to solving advanced physics and engineering problems.
-
-
-## 1.4. Contents of this Repository 
-
-```
-Folder PATH listing
-. 
-|
-+---citation
-|       CITATION.cff
-|       references.bib
-|       
-+---fortran_tutorial
-|       00_ifort_Installation-Guide.md
-|       01_FORTRAN_Main-Commands_Tutorial.md
-|       02_FORTRAN_Coding-Template_Tutorial.md
-|       03_FORTRAN_Run_a_Code_Tutorial.md
-|       04_FORTRAN_Coding_Template.F90
-|       05_Write-Read-Variables_Types.F90
-|       06_Readable_Code_Structure.F90
-|       07_do-loop.F90
-|       08_If-then-else.F90
-|       09_open-file.F90
-|       10_Array.F90
-|       README.md
-|       
-+---src
-|   |   2_Heat-Equation_Continuous-Wave_Gaussian.f90
-|   |   3_Heat-Equation_Pulsed-Wave_Gaussian.f90
-|   |   4_Phase-Mismatch_Pulsed-Wave_Gaussian.f90
-|   |   5_Ideal_Continuous-Wave_Gaussian.f90
-|   |   6_Ideal_Pulsed-Wave_Bessel-Gaussian.f90
-|   |   7_Coupled_Continuous-Wave_Gaussian.f90
-|   |   README.md 
-|   |  
-|   +---2_Results   <-- Contains plots generated by the code of article 2
-|   +---3_Results   <-- Contains plots generated by the code of article 3  
-|   +---4_Results   <-- Contains plots generated by the code of article 4   
-|   +---5_Results   <-- Contains plots generated by the code of article 5   
-|   +---6_Results   <-- Contains plots generated by the code of article 6  
-|   \---7_Results   <-- Contains plots generated by the code of article 7
-
-```
+3. **For beginners with no prior knowledge of SHG or Fortran**: This organization is built with you in mind. We'll start with the basics, teaching you Fortran from the ground up in [**fortran_tutorial**](./fortran_tutorial), followed by an introduction to SHG. Our goal is to help you progress from understanding the basics to solving advanced physics and engineering problems.
 
 
 # 2. Second Harmonic Generation (SHG)
@@ -516,12 +472,12 @@ The key distinction between different wave types and crystal materials lies in t
 
 Moreover, while our studies primarily focused on developing detailed models to understand these thermal behaviors, future research can take the next step by conducting comprehensive simulations and experimental validations. These simulations can provide deeper insights into how different thermal properties, such as anisotropic conductivity and varying boundary conditions, influence heat distribution and phase mismatching across various laser and crystal configurations. Such explorations would not only enhance the theoretical understanding but also offer practical guidelines for optimizing SHG systems under varying thermal conditions.
 
-Ultimately, exploring these new avenues will open up entirely new research trajectories, each with its own set of challenges and opportunities. This will enable a more complete understanding of thermal effects in nonlinear optical systems, contributing to the design of more efficient and adaptable laser technologies. To facilitate further research, other researchers can use our GitHub repository as a tutorial, utilizing the provided source code as a foundation for conducting simulations and extending the study in this field. By building on our work, future studies can deepen insights into heat transfer dynamics and refine thermal management strategies across various nonlinear optical configurations.
+Ultimately, exploring these new avenues will open up entirely new research trajectories, each with its own set of challenges and opportunities. This will enable a more complete understanding of thermal effects in nonlinear optical systems, contributing to the design of more efficient and adaptable laser technologies. To facilitate further research, other researchers can use our SHG organization as a tutorial, utilizing the provided source code as a foundation for conducting simulations and extending the study in this field. By building on our work, future studies can deepen insights into heat transfer dynamics and refine thermal management strategies across various nonlinear optical configurations.
 
-We are currently working on these topics and are dedicated to pushing this research forward. In the near future, we will share the results of our ongoing studies along with new articles and code updates in this repository. Our goal is to expand thes repository into a more comprehensive resource that will support other researchers in exploring the complexities of thermal effects in nonlinear optics. Stay tuned for these updates, as they will provide even deeper insights and tools to enhance future research in this field.
+We are currently working on these topics and are dedicated to pushing this research forward. In the near future, we will share the results of our ongoing studies along with new articles and code updates in this organization. Our goal is to expand this organization into a more comprehensive resource that will support other researchers in exploring the complexities of thermal effects in nonlinear optics. Stay tuned for these updates, as they will provide even deeper insights and tools to enhance future research in this field.
 
 # 12. How to Cite Us
-For proper citation of our work, please visit the [**citation**](./citation) directory in this repository. This folder contains all necessary citation files and clear instructions to ensure correct referencing and acknowledgment of our research.
+For proper citation of our work, please visit the [**citation**](./citation) directory in this organization. This folder contains all necessary citation files and clear instructions to ensure correct referencing and acknowledgment of our research.
 
 
 # 13. For Additional Questions
