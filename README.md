@@ -126,7 +126,7 @@ This tutorial is designed for three types of researcher:
 
 2. **For those who know Fortran but are new to SHG**: This tutorial will introduce you to the fundamentals of SHG, guiding you step-by-step through the key concepts. By the end, you'll be ready to tackle complex problems in this field.
 
-3. **For beginners with no prior knowledge of SHG or Fortran**: This organization is built with you in mind. We'll start with the basics, teaching you Fortran from the ground up in [**fortran_tutorial**](./fortran_tutorial), followed by an introduction to SHG. Our goal is to help you progress from understanding the basics to solving advanced physics and engineering problems.
+3. **For beginners with no prior knowledge of SHG or Fortran**: This organization is built with you in mind. We'll start with the basics, teaching you Fortran from the ground up using the comprehensive [**Fortran-for-Science**](https://github.com/Max-Ghadri/Fortran-for-Science) repository, followed by an introduction to SHG. Our goal is to help you progress from understanding the basics to solving advanced physics and engineering problems.
 
 
 # 2. Second Harmonic Generation (SHG)
