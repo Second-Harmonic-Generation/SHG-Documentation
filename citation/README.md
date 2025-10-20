@@ -1,8 +1,5 @@
-<h1 align="center">Harvard style and BibTeX of the Articles</h1>
-
-This collection provides all article references from the SHG GitHub Organization, maintained in BibTeX and Harvard Style format.
- 
-Please consider cite to our related works. To make it easier to understand our contributions, the articles are **sorted by thematic order**, not by chronological order.
+**Note:   
+Please consider cite to our related works. To make it easier to understand our contributions, the articles are sorted by thematic order, not by chronological order.**
 
 # Contents
 [1. Heat Equation Continuous Wave Gaussian Analytical](#1-heat-equation-continuous-wave-gaussian-analytical)    
@@ -50,7 +47,7 @@ Sabaeian, M., Jalil-Abadi, F.S., Rezaee, M.M., Motazedian, A. and Shahzadeh, M.,
 
 **BibTeX** 
 ```
-@article{sabaeian2015temperature,
+@article{sabaeian2015tempdist,
   title={Temperature distribution in a Gaussian end-pumped nonlinear KTP crystal: the temperature dependence of thermal conductivity and radiation boundary condition},
   author={Sabaeian, Mohammad and Jalil-Abadi, Fatemeh Sedaghat and Rezaee, Mostafa Mohammad and Motazedian, Alireza and Shahzadeh, Mohammadreza},
   journal={Brazilian Journal of Physics},
